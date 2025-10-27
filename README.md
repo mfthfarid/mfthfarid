@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mfth Farid</h1>
-<h3 align="center">🚀 Passionate Frontend Developer | Creative Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">Halo 👋, Saya Miftah Farid</h1>
+<h3 align="center">🚀 Developer | Suka Coding & Teknologi</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mfthfarid&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="mfthfarid" />
@@ -12,11 +12,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm a **Frontend Developer** from Indonesia
-- 🌱 Currently learning **Advanced React Patterns & Microservices**
-- 💬 Ask me about **React, Flutter, JavaScript, TypeScript**
+- 🔭 Saya seorang **Fullstack Developer** dari Indonesia
+- 🌱 Sedang belajar **React & Node.js**
+- 💬 Tanya saya tentang **React, Flutter, JavaScript, TypeScript**
 - 📫 Reach me at: **miftahfarid1805@gmail.com**
 
+<br>
 <br>
 <br>
 <br>
@@ -45,6 +46,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
