@@ -15,7 +15,7 @@
 - 🔭 Saya seorang **Fullstack Developer** dari Indonesia
 - 🌱 Sedang belajar **React & Node.js**
 - 💬 Tanya saya tentang **React, Flutter, JavaScript, TypeScript**
-- 📫 Reach me at: **miftahfarid1805@gmail.com**
+- 📫 Hubungi saya: **miftahfarid1805@gmail.com**
 
 <br>
 <br>
@@ -83,7 +83,14 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mfthfarid&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mfthfarid&theme=tokyonight&no-frame=true&row=1&column=7"
+    alt="trophy"
+    onerror="this.style.display='none'; document.getElementById('trophy-fallback').style.display='block';"
+  />
+</p>
+<p id="trophy-fallback" align="center" style="display:none; color:gray;">
+  🏆 Trophy tidak dapat dimuat saat ini
 </p>
 
 ---
@@ -94,15 +101,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfthfarid&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
----
-
-### 💬 Random Dev Quote
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
----
+</p> -->
 
 ### 🤝 Connect with me
 
@@ -119,5 +120,5 @@
 </p>
 
 <p align="center">
-  <b>⭐ Show some love by starring my repositories! ⭐</b>
+  <b>⭐ Jangan lupa star repository saya! ⭐</b>
 </p>
