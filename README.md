@@ -12,11 +12,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm a **Frontend Developer** from India
+- 🔭 I'm a **Frontend Developer** from Indonesia
 - 🌱 Currently learning **Advanced React Patterns & Microservices**
 - 💬 Ask me about **React, Flutter, JavaScript, TypeScript**
 - ⚡ Fun fact: **I turn coffee into code ☕ → 💻**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **miftahfarid1805@gmail.com**
 
 <br>
 <br>
