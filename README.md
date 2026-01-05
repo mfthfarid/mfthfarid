@@ -16,6 +16,7 @@
 - 🌱 Sedang belajar **React & Node.js**
 - 💬 Tanya saya tentang **React, Flutter, JavaScript, TypeScript**
 - 📫 Hubungi saya: **miftahfarid1805@gmail.com**
+- 📘 Portofolio saya: **https://mfthfarid.github.io/**
 
 <br>
 <br>
